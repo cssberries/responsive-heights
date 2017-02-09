@@ -1,0 +1,26 @@
+{
+  "name": "breakpoints",
+  "version": "0.0.1",
+  "homepage": "https://github.com/cssberries/breakpoints",
+  "authors": [
+    "Yevgeniy Belov"
+  ],
+  "description": "Breakpoints system",
+  "main": "settings-breakpoints.less",
+  "keywords": [
+    "css",
+    "oocss",
+    "ben",
+    "itcss"
+  ],
+  "license": "MIT",
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.1",
+    "commit": "2e892f3056818c2abfa490c7818e968b8b3d72df"
+  },
+  "_source": "https://github.com/cssberries/breakpoints.git",
+  "_target": "*",
+  "_originalSource": "cssberries-breakpoints"
+}

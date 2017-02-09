@@ -1,0 +1,20 @@
+{
+  "name": "responsive-heights",
+  "version": "0.0.1",
+  "homepage": "https://github.com/cssberries/responsive-heights",
+  "authors": [
+    "Yevgeniy Belov"
+  ],
+  "description": "",
+  "main": "objects-responsive-heights.less",
+  "keywords": [
+    "css",
+    "oocss",
+    "itcss",
+    "bem"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "cssberries-breakpoints": "latest"
+  }
+}

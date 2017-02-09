@@ -1,0 +1,17 @@
+{
+  "name": "breakpoints",
+  "version": "0.0.1",
+  "homepage": "https://github.com/cssberries/breakpoints",
+  "authors": [
+    "Yevgeniy Belov"
+  ],
+  "description": "Breakpoints system",
+  "main": "settings-breakpoints.less",
+  "keywords": [
+    "css",
+    "oocss",
+    "ben",
+    "itcss"
+  ],
+  "license": "MIT"
+}
